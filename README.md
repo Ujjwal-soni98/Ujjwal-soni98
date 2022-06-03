@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ujjwal-soni98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ujjwal
+- 👀 I’m interested in Web Development and open source.
+- 🌱 I’m currently learning full stck web-D
+- 💞️ I’m looking to collaborate on web development projects
+
 
 <!---
 Ujjwal-soni98/Ujjwal-soni98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
