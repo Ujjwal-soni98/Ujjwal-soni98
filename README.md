@@ -3,7 +3,8 @@
  🌱 I’m currently learning **Full stack web-Dev** *(MERN)*. <br>
  💞️ I’m looking to collaborate on web development projects. <br>
   Here are the links to my Socials: <br>
-  [LinkedIn](https://www.linkedin.com/in/ujjwal-soni)
+  [LinkedIn](https://www.linkedin.com/in/ujjwal-soni)<br>
+  ![Web-dev coding](https://www.renderinfotech.com/assets/image/web-development.gif)
 [![@ujjwalsoni98's Holopin board](https://holopin.me/ujjwalsoni98)](https://holopin.io/@ujjwalsoni98) [![@ujjwalsoni982's Holopin board](https://holopin.me/ujjwalsoni982)](https://holopin.io/@ujjwalsoni982)
 <!---
 Ujjwal-soni98/Ujjwal-soni98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
