@@ -32,8 +32,8 @@ while(alive){
  
  - [ ] Express.js
  - [ ] MongoDB
- - [![@ujjwalsoni98's Holopin board](https://holopin.me/ujjwalsoni98)](https://holopin.io/@ujjwalsoni98)
-- [![@ujjwalsoni982's Holopin board](https://holopin.me/ujjwalsoni982)](https://holopin.io/@ujjwalsoni982)
+  [![@ujjwalsoni98's Holopin board](https://holopin.me/ujjwalsoni98)](https://holopin.io/@ujjwalsoni98)<br>
+ [![@ujjwalsoni982's Holopin board](https://holopin.me/ujjwalsoni982)](https://holopin.io/@ujjwalsoni982)<br>
 <!---
 Ujjwal-soni98/Ujjwal-soni98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
