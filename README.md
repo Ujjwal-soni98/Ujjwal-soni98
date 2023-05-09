@@ -2,6 +2,23 @@
 - 👀 I’m interested in **Web Development** and open source. <br>
 - 🌱 I’m currently learning **Full stack web-Dev** *(MERN)*. <br>
 - 💞️ I’m looking to collaborate on web development projects. <br>
+```js
+const name = "Ujjwal"
+while(alive){
+    const code = () => {
+    console.log("Code Code Code!!!!");
+    }
+    
+    const learn = () => {
+    console.log("Learn languages, frameworks and how to use libraries");
+    }
+    const build = () => {
+    console.log("Make Projects");
+    }
+    
+}
+
+```
  ![Web-dev coding](https://www.renderinfotech.com/assets/image/web-development.gif)
  ### Explored in tech:
  - [x] HTML
