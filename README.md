@@ -3,11 +3,16 @@
 - 🌱 I’m currently learning **Full stack web-Dev** *(MERN)*. <br>
 - 💞️ I’m looking to collaborate on web development projects. <br>
  ![Web-dev coding](https://www.renderinfotech.com/assets/image/web-development.gif)
- #### Explored in tech:
+ ### Explored in tech:
  - [x] HTML
  - [x] CSS
  - [x] Tailwind CSS
  - [x] Javscript : My Favourite One, JS is ❤️.
+ - [x] Node.js
+ #### These are yet to be done (on the way, will be updating soon) :
+ - [] React.js
+ - [] Express.js
+ - [] MongoDB
  - [![@ujjwalsoni98's Holopin board](https://holopin.me/ujjwalsoni98)](https://holopin.io/@ujjwalsoni98)
 - [![@ujjwalsoni982's Holopin board](https://holopin.me/ujjwalsoni982)](https://holopin.io/@ujjwalsoni982)
 <!---
