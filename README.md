@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning **Full stack web-Dev** *(MERN)*. <br>
 - 💞️ I’m looking to collaborate on web development projects. <br>
 ```js
-const name = "Ujjwal"
+const name = "Ujjwal";
+
 while(alive){
     const code = () => {
-    console.log("Code Code Code!!!!");
+    console.log("Code💻 Code 💻Code 💻!!!!");
     }
     
     const learn = () => {
