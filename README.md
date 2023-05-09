@@ -9,8 +9,9 @@
  - [x] Tailwind CSS
  - [x] Javscript : My Favourite One, JS is ❤️.
  - [x] Node.js
+ - [x] React.js (Beginner level)
  #### These are yet to be done (on the way, will be updating soon) :
- - [ ] React.js
+ 
  - [ ] Express.js
  - [ ] MongoDB
  - [![@ujjwalsoni98's Holopin board](https://holopin.me/ujjwalsoni98)](https://holopin.io/@ujjwalsoni98)
