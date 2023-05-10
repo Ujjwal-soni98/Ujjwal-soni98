@@ -20,7 +20,7 @@ while(alive){
 }
 
 ```
- ![Web-dev coding](https://www.renderinfotech.com/assets/image/web-development.gif)
+<!-- ![Web-dev coding](https://www.renderinfotech.com/assets/image/web-development.gif)-->
  ### Explored in tech:
  - [x] HTML
  - [x] CSS
