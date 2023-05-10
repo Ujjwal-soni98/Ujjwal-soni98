@@ -56,9 +56,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal-soni98&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-soni98&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ujjwal-soni98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ujjwal-soni98&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 ---
 <!--  
@@ -68,6 +68,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.buymeacoffee.com/ujjwalsonil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> <br><br>
 
-## 🌐 Socials:
+## 🌐 Let's Catch-Up Here 👇
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-soni) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ujjwal__soni) 
 
