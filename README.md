@@ -1,4 +1,8 @@
 <h1 align="center"> 👋 Hi, I’m Ujjwal </h1><br>
+
+<h2 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56F770&center=true&width=435&lines=A+Programmer+from+India" alt="Typing SVG" /></a>
+</h2>
 <blockquote><pre>Coding, it’s an endless process of trial and error, of trying to get the right command in the right place, with
 sometimes just a semicolon making the difference between success and failure. Code breaks and then it falls apart,
 and it often takes many, many tries until that magical moment when what you’re trying to build comes to life.                   
