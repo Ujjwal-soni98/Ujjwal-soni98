@@ -9,7 +9,7 @@ and it often takes many, many tries until that magical moment when what you’re
                                                                                                             --Reshma Saujani</pre></blockquote><br>
 
 ### - 👀 I’m interested in Web development.<br>
-### - 🌱 I’m currently learning **Full stack web-Dev** on the javascript techstack and also exploring cloud technologies.. <br>
+### - 🌱 I’m currently doing **Full stack web-Dev** on the javascript techstack and also exploring cloud technologies. Would also love to explore Web 3.0 in future. <br>
 ### - 💞️ I’m looking to collaborate on web development projects.<br>
 ```js
 const name = "Ujjwal";
