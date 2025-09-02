@@ -8,9 +8,9 @@ sometimes just a semicolon making the difference between success and failure. Co
 and it often takes many, many tries until that magical moment when what you’re trying to build comes to life.                   
                                                                                                             --Reshma Saujani</pre></blockquote><br>
 
-### - 👀 I’m interested in **Web Development** and open source. <br>
-### - 🌱 I’m currently learning **Full stack web-Dev** *(MERN)*. <br>
-### - 💞️ I’m looking to collaborate on web development projects. <br>
+### - 👀 I’m interested in Web development.<br>
+### - 🌱 I’m currently learning **Full stack web-Dev** on the javascript techstack and also exploring cloud technologies.. <br>
+### - 💞️ I’m looking to collaborate on web development projects.<br>
 ```js
 const name = "Ujjwal";
 
