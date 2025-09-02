@@ -36,11 +36,8 @@ while(alive){
  - [x] Tailwind CSS
  - [x] Javscript : My Favourite One, JS is ❤️.
  - [x] Node.js
- - [x] React.js (Beginner level)
- #### These are yet to be done (on the way, will be updating soon) :
- 
- - [ ] Express.js
- - [ ] MongoDB
+ - [x] Express.js 
+ - [x] React.js 
  
 <!---
 Ujjwal-soni98/Ujjwal-soni98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
