@@ -8,7 +8,7 @@ sometimes just a semicolon making the difference between success and failure. Co
 and it often takes many, many tries until that magical moment when what you’re trying to build comes to life.                   
                                                                                                             --Reshma Saujani</pre></blockquote><br>
 
-### - 👀 I’m interested in Web development.<br>
+### - 👀 I’m interested in cool projects that make impact on society.<br>
 ### - 🌱 I’m currently doing **Full stack web-Dev** on the javascript techstack and also exploring cloud technologies. Would also love to explore Web 3.0 in future. <br>
 ### - 💞️ I’m looking to collaborate on web development projects.<br>
 ```js
