@@ -37,7 +37,14 @@ while(alive){
  - [x] Javscript : My Favourite One, JS is ❤️.
  - [x] Node.js
  - [x] Express.js 
- - [x] React.js 
+ - [x] React.js
+ - [x] MySQL
+ - [x] TypeScript
+ - [x] MongoDB
+ - [ ] PostgresSQL
+ - [ ] Spring
+ - [ ] SpringBoot
+ - [ ] Hibernate
  
 <!---
 Ujjwal-soni98/Ujjwal-soni98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
